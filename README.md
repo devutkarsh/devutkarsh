@@ -1,1 +1,7 @@
-
+- 👋 .. Hi, I’m @devutkarsh
+- 👀 .. A curious soul always exploring technologies. 
+- 🤖 .. Backend Engineer, designing solutions on Cloud Platform.
+- 🌱 .. Currently learning DevOps & GitOps tools to create awesome system on Kubernetes.
+- 💞️ .. I’m looking to collaborate on Open Source projects.
+- 🎸 .. Also, a session musician.
+- 📫 .. How to reach me - blog.devutkarsh.com
